@@ -1,6 +1,6 @@
-### Hello, I'm Thomas !
+## Hello, I'm Thomas !
 
-## I'm a former Marketing graduate who recently retrained in programming
+### I'm a former Marketing graduate who recently retrained in programming
 - I'm currently working on Java
 - I’m currently learning everything 🤣
 - I’m looking to collaborate with other content creators
